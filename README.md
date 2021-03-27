@@ -1,2 +1,3 @@
-# New-malek
-strat new test
+# Note from fire
+
+wait
